@@ -1042,7 +1042,6 @@ eslint-plugin-html@^7.1.0:
 
 "eslint-plugin-jsdom-internal@link:./scripts/eslint-plugin":
   version "0.0.0"
-  uid ""
 
 eslint-scope@^7.1.1:
   version "7.1.1"
